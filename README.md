@@ -53,7 +53,7 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 6. Modders have frequently either stayed on a version indefinitely or only updated to specific versions. These version include as of 8/5/23: 1.7.10, 1.8.9, 1.12.2, 1.16.5, 1.18.2, 1.19.2 and the current latest version 1.20.1. 
 
 
-## Installing Mods
+## Setting Up Mod Loaders
 Now that we have the basics out of the way let's stary Modding! To be able to use mods in minecraft, we'll be using Mod Loaders. There are currently two main Mod Loaders, them being [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/), and [Fabric](https://fabricmc.net/). Let's first set up a basic mod profile.
 
 > [!NOTE]
