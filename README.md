@@ -91,6 +91,8 @@ Select the Client you are using.
     
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/3917a696-0635-4b07-9cab-eff39cfbc8cf)
 
+    That's it! Now that you've setup a simple mod loader, it's time to add mods!
+    
     <details>
     <summary>If not, click here! </summary>
     <br>
@@ -109,7 +111,7 @@ Select the Client you are using.
 
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/a8491cef-477f-4496-b657-7f7e66aab522)
     
-    You're done!
+    You're done! Now that you've setup a simple mod loader, it's time to add mods!
 
     </details>
 </details>
@@ -133,7 +135,7 @@ You should see this now!
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/fa75ab44-7f1c-4119-9aeb-39195fa925bf)
 
 
-You're done!
+You're done! Now that you've setup a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -154,14 +156,13 @@ You're done!
    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/02a83e66-9686-40dc-a30e-db7966612374)
 
 
-You're good to go!
+You're good to go! Now that you've setup a simple mod loader, it's time to add mods!
 
 </details>
 
-Now that you've setup a simple mod loader, it's time to add mods!
+
 </details>
 
-#
 
 <details>
 <summary> FABRIC </summary>
@@ -195,6 +196,8 @@ You should see this after the download has been completed.
 6. Open the Minecraft Launcher and you should see a fabric profile in your Installations List.
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/b97c938f-015a-4e05-a4b7-851dd876c8e4)
 
+That's it! Now that you've setup a simple mod loader, it's time to add mods!
+
 </details>
 
 <details>
@@ -216,7 +219,7 @@ You should see this now!
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/4ddeabb6-a739-4b31-aec5-71be6ee87ec6)
 
 
-You're done!
+You're done! Now that you've setup a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -237,12 +240,13 @@ You're done!
    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/ec721cfa-2f12-477d-851e-e3d658133f0d)
 
 
-You're good to go!
+You're good to go! Now that you've setup a simple mod loader, it's time to add mods!
 
 </details>
 
-Now that you've setup a simple mod loader, it's time to add mods!
 </details>
+
+# PART 2 - Installing Mods
 
 
 # PART 3 - Issues
