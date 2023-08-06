@@ -292,9 +292,11 @@ Now that you've set up a way to load mods, it's time to actually add mods. Remem
 > [!IMPORTANT]
 > Remember the points listed at the [start](https://github.com/Spookfu/moddedmc#ii-mod-management)!
 
-7. Once the mods are downloaded, drag the files into the `mods` folder.
+7. Once the mods are downloaded, drag the files into the `mods` folder
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/c4ce8f2d-e2c4-40a9-9ebe-9a148a42f91c)
+
+8. Test if your game runs!
 
 
 </details>
@@ -302,6 +304,32 @@ Now that you've set up a way to load mods, it's time to actually add mods. Remem
 <details>
 <summary> MultiMC / Prism Launcher </summary>
 <br>
+
+1. Go to the `Mods` tab, and click either `Download Mods` or `Add File`
+> [!NOTE]
+> If you wish to manually add mods, the `Add File` button is the way to go.
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/9294586d-dacd-4ef2-b1e4-9ebe78b4472b)
+
+2. Search the mods you want to play with, select the mod version, press `Select mod for download`, and press `Review and Confirm`.
+> [!NOTE]
+> 1. Unlike CurseForge, MultiMC/Prism Launcher does not automatically download the mod's dependencies. You will need to manually search and install the mods dependencies.
+> 2. You can select multiple mods at once and install them simultaneously. Select mods titles are bolded and underlined.
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/7675e2ab-e382-4aaf-8650-87072100e2c4)
+
+3. Review your mods, once you're satisfied click `Ok`.
+
+![image](https://github.com/Spookfu/moddedmc/assets/75686139/d418a5ba-55d0-4058-9626-d5ed722672ec)
+
+3. Confirm that you've installed the mod.
+
+> [!NOTE]
+> You can update your mods in bulk by selecting your mods and clicking `Check for Updates
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/81842caf-c7ad-4ed5-8c72-f475a976def4)
+
+5. Test if your game runs!
 
 </details>
 
@@ -321,9 +349,14 @@ Now that you've set up a way to load mods, it's time to actually add mods. Remem
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/f2258026-11fc-4d55-ac56-3cc8e73a23a9)
 
-3. Confirm that you've installed the mod
+3. Confirm that you've installed the mod.
+> [!NOTE]
+> If a mod has an update available, an update button will appear.
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/72ade405-c22f-4104-a9f6-b566bfefdc05)
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/72ade405-c22f-4104-a9f6-b566bfefdc05)
+8. Test if your game runs!
+
 
 </details>
 
