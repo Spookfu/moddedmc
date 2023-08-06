@@ -48,16 +48,16 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 
 5. Use [Modrinth](https://modrinth.com/) or [Curseforge](https://beta.curseforge.com/minecraft/search?page=1&class=mc-mods&sortType=2&pageSize=20) to download mods from. Other sites are sketchy, not easy to use, or aren’t reliable or popular.
 > [!WARNING]
-> Please be vigilant when downloading mods, as they may include viruses and the such that the moderators of the websites may not have catched
+> Please be vigilant when downloading mods, as they may include viruses and such that the moderators of the websites may not have caught.
 
 6. Modders have frequently either stayed on a version indefinitely or only updated to specific versions. These version include as of 8/5/23: 1.7.10, 1.8.9, 1.12.2, 1.16.5, 1.18.2, 1.19.2 and the current latest version 1.20.1. 
 
 
 ## Setting Up Mod Loaders
-Now that we have the basics out of the way let's stary Modding! To be able to use mods in minecraft, we'll be using Mod Loaders. There are currently two main Mod Loaders, them being [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/), and [Fabric](https://fabricmc.net/). Let's first set up a basic mod profile.
+Now that we have the basics out of the way let's start Modding! To be able to use mods in Minecraft, we'll be using Mod Loaders. There are currently two main Mod Loaders, them being [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/), and [Fabric](https://fabricmc.net/). Let's first set up a basic mod profile.
 
 > [!NOTE]
-> The other mod loaders include [Quilt](https://quiltmc.org/en/), [NeoForge](https://neoforged.net/), [Rift](https://www.curseforge.com/minecraft/mc-mods/rift), [LiteLoader](http://www.liteloader.com/), and [Risugami's Modloader ](https://ftb.fandom.com/wiki/Risugami's_Modloader) (DISCONTINUED). We will not be going over these mod loaders as most of them are inactive, discontinued, in heavy development, or not very popular.
+> Other mod loaders include [Quilt](https://quiltmc.org/en/), [NeoForge](https://neoforged.net/), [Rift](https://www.curseforge.com/minecraft/mc-mods/rift), [LiteLoader](http://www.liteloader.com/), and [Risugami's Modloader ](https://ftb.fandom.com/wiki/Risugami's_Modloader) (DISCONTINUED). We will not be going over these mod loaders as most of them are inactive, discontinued, in heavy development, or not very popular.
 
 ### Let's first set up a basic mod profile.
 
@@ -74,7 +74,7 @@ Select the Client you are using.
  **Vanilla**
  1. Go to the Minecraft Launcher, and launch your preferred version. After it has loaded into the Title Screen, exit out of the game.
  1. Go to the [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) Website
- 2. Click on your perferred version and Download the Recommended INSTALLER (If you wish to, you can choose the Latest Installer). Upon completion open the downloaded file. 
+ 2. Click on your preferred version and Download the Recommended INSTALLER (If you wish to, you can choose the Latest Installer). Upon completion open the downloaded file. 
     
   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/34322acb-3c17-41ef-b495-643728718a02)
   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/e3bfd223-a390-47d4-9173-18e2b13d3ee2)
@@ -83,15 +83,18 @@ Select the Client you are using.
     
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/d5f4db67-f617-4247-b547-4e8a4e1f627d)
 
-    You should see this after the download has been completed.
-    
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/1062f50b-d06a-4a1e-ad55-935541690146)
+    > [!NOTE]
+    > This is what you should see right now.
+    > 
+    > You should see this after the download has been completed.
+    >
+    > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/1062f50b-d06a-4a1e-ad55-935541690146)
 
  5. Open the Minecraft Launcher and you should see a forge profile in your Installations List.
     
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/3917a696-0635-4b07-9cab-eff39cfbc8cf)
 
-    That's it! Now that you've setup a simple mod loader, it's time to add mods!
+    That's it! Now that you've set up a simple mod loader, it's time to add mods!
     
     <details>
     <summary>If not, click here! </summary>
@@ -102,16 +105,15 @@ Select the Client you are using.
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/2060fce6-c3ca-4ade-bb86-c49780e5fdb9)
     
 
-    2. Check the Box called `MODDED` on the top, than click on `New Installation`.
+    2. Check the Box called `MODDED` on the top, then click `New Installation`.
      
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/5c5f817c-6692-4c3f-8d56-05e9d1644ff5)
 
-    3. Click on Versions, and scroll down until you see the desired Version, than click create.
-  
+    3. Click on Versions, and scroll down until you see the desired Version, then click `Create`.
 
     ![image](https://github.com/Spookfu/moddedmc/assets/75686139/a8491cef-477f-4496-b657-7f7e66aab522)
     
-    You're done! Now that you've setup a simple mod loader, it's time to add mods!
+    You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
     </details>
 </details>
@@ -126,16 +128,19 @@ Select the Client you are using.
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/0c2afcc7-fee0-42db-b06c-d67c9c8ebf45)
 
-2. Choose your preferred version, and click on `Forge` than press `OK`
+2. Choose your preferred version, click on `Forge` then press `OK`
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/e1c932b2-573c-4620-a709-cbda175aa1fc)
 
-You should see this now!
+> [!NOTE]
+> This is what you should see right now.
+> 
+> You should see this now!
+>
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/fa75ab44-7f1c-4119-9aeb-39195fa925bf)
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/fa75ab44-7f1c-4119-9aeb-39195fa925bf)
 
-
-You're done! Now that you've setup a simple mod loader, it's time to add mods!
+You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -151,12 +156,15 @@ You're done! Now that you've setup a simple mod loader, it's time to add mods!
 
    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/3962e942-de17-4834-bd75-e0096f59a342)
 
-   You should see this when it finishes downloading.
+   > [!NOTE]
+   > This is what you should see right now.
+   > 
+   > You should see this when it finishes downloading.
+   >
+   > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/02a83e66-9686-40dc-a30e-db7966612374)
 
-   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/02a83e66-9686-40dc-a30e-db7966612374)
 
-
-You're good to go! Now that you've setup a simple mod loader, it's time to add mods!
+You're good to go! Now that you've set up a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -179,24 +187,27 @@ You're good to go! Now that you've setup a simple mod loader, it's time to add m
    
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/94fc2ba2-5390-4897-aeb8-f85478b18d7f)
 
-4. Click on `Download for Windows` (or `Download universal jar` if you're not using Windows),and open the downloaded file.
+4. Click on `Download for Windows` (or `Download universal jar` if you're not using Windows), and open the downloaded file.
 > [!NOTE]
 > Fabric has their own [Installation guide](https://fabricmc.net/wiki/install) that you can look through instead of here.
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/8fee7f0d-4ccc-4dea-9247-96cb2e8b2003)
 
-5. You should see this now! Choose your perferred version (Check the Show Snapshots buttom for Snapshot versions), and check `Create Profile`, if it isn't already, and press `Install`
+5. You should see this now! Choose your preferred version (Check the Show Snapshots button for Snapshot versions), check `Create Profile`, if it isn't already, and press `Install`
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/85c9883e-5eec-4865-a95a-bb0b74705a05)
 
-You should see this after the download has been completed.
+> [!NOTE]
+> This is what you should see right now.
+> 
+> You should see this after the download has been completed.
+>
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/e25d039f-365a-4c33-b0be-527345b67bfe)
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/e25d039f-365a-4c33-b0be-527345b67bfe)
-
-6. Open the Minecraft Launcher and you should see a fabric profile in your Installations List.
+6. Open the Minecraft Launcher, and you should see a fabric profile in your Installations List.
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/b97c938f-015a-4e05-a4b7-851dd876c8e4)
 
-That's it! Now that you've setup a simple mod loader, it's time to add mods!
+That's it! Now that you've set up a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -209,17 +220,20 @@ That's it! Now that you've setup a simple mod loader, it's time to add mods!
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/0c2afcc7-fee0-42db-b06c-d67c9c8ebf45)
 
-2. Choose your preferred version, and click on `Fabric` than press `OK`
+2. Choose your preferred version, click on `Fabric` then press `OK`
 
 ![image](https://github.com/Spookfu/moddedmc/assets/75686139/6196df41-c5a3-418f-890c-4a3a3bd8d20d)
 
 
-You should see this now!
+> [!NOTE]
+> This is what you should see right now.
+> 
+> You should see this now!
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/4ddeabb6-a739-4b31-aec5-71be6ee87ec6)
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/4ddeabb6-a739-4b31-aec5-71be6ee87ec6)
 
-
-You're done! Now that you've setup a simple mod loader, it's time to add mods!
+You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
 </details>
 
@@ -235,27 +249,78 @@ You're done! Now that you've setup a simple mod loader, it's time to add mods!
 
    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/73400613-a09a-4f9e-a8f7-592ade0feb57)
 
-   You should see this when it finishes downloading.
+   > [!NOTE]
+   > This is what you should see right now.
+   > 
+   > You should see this when it finishes downloading.
+   > 
+   > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/ec721cfa-2f12-477d-851e-e3d658133f0d)
 
-   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/ec721cfa-2f12-477d-851e-e3d658133f0d)
 
-
-You're good to go! Now that you've setup a simple mod loader, it's time to add mods!
+You're good to go! Now that you've set up a simple mod loader, it's time to add mods!
 
 </details>
 
 </details>
 
 # PART 2 - Installing Mods
+Now that you've set up a way to load mods, it's time to actually add mods. Remember the points listed at the [start](https://github.com/Spookfu/moddedmc#ii-mod-management)!
 
-
-# PART 3 - Issues
-## Debugging Issues
-Crashes and other issues are bound to happen. The easiest way to debug issues is by looking at your Logs. Here’s how to view them:
+<details>
+<summary> Vanilla </summary>
+<br>
 
 **Using Vanilla Launcher:**
 1. Press `Windows + R`
 2. Type in `%appdata%`
+   
+> [!NOTE]
+> This is what you should see right now.
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/c82b00bd-bac0-4164-b31f-246842247aec)
+   
+4. Go into the folder called `.minecraft`
+5. Create a folder named `mods` if it doesn't exist.
+
+> [!NOTE]
+> The other contents of your folder do not need to look exactly like this. The important part is that `mods` folder EXISTS.
+> 
+> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/5244affd-8dc4-4887-bbd2-2b8d486feed1)
+
+6. Go to either [Modrinth](https://modrinth.com/) or [Curseforge](https://beta.curseforge.com/minecraft/search?page=1&class=mc-mods&sortType=2&pageSize=20) and download the mods you wish to play.
+
+> [!IMPORTANT]
+> Remember the points listed at the [start](https://github.com/Spookfu/moddedmc#ii-mod-management)!
+
+7. Once the mods are downloaded, drag the files into the `mods` folder.
+
+![image](https://github.com/Spookfu/moddedmc/assets/75686139/c4ce8f2d-e2c4-40a9-9ebe-9a148a42f91c)
+
+
+</details>
+
+<details>
+<summary> MultiMC / Prism Launcher </summary>
+<br>
+
+</details>
+
+<details>
+<summary> CurseForge </summary>
+<br>
+
+</details>
+
+
+
+# PART 3 - Issues
+## Debugging Issues
+Crashes and other issues are bound to happen. The easiest way to debug issues is by looking at your Logs. Here is how to view them:
+
+**Using Vanilla Launcher:**
+1. Press `Windows + R`
+2. Type in `%appdata%`
+   
 > [!NOTE]
 > This is what you should see right now.
 > 
