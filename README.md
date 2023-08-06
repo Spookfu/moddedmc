@@ -309,6 +309,22 @@ Now that you've set up a way to load mods, it's time to actually add mods. Remem
 <summary> CurseForge </summary>
 <br>
 
+1. Click the Puzzle Icon
+   
+![image](https://github.com/Spookfu/moddedmc/assets/75686139/9082a1f7-c73a-4ed3-8a34-07c1246eb173)
+
+2. Search the mods you wish to download, and click the `Install` Button
+> [!NOTE]
+> 1. You can also install/add Resource Packs and even Worlds
+> 2. CurseForge automatically installs the correct version and any required dependencies of the mod you installed
+> 3. Client Mods are mods that do not need to be on a server if you are playing a Modded SMP
+
+![image](https://github.com/Spookfu/moddedmc/assets/75686139/f2258026-11fc-4d55-ac56-3cc8e73a23a9)
+
+3. Confirm that you've installed the mod
+
+![image](https://github.com/Spookfu/moddedmc/assets/75686139/72ade405-c22f-4104-a9f6-b566bfefdc05)
+
 </details>
 
 
