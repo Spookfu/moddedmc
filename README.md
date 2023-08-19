@@ -24,7 +24,7 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 > [!NOTE]
 > Clicking on a file in the Files tab on CurseForge, and clicking a file on the Versions tab on Modrinth, will show you something similar to the images below respectively
 > 
-> ![image](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png)
+> ![alt text](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png?raw=true)
 > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/2a2b454c-9466-4422-abe3-86cd718c88bb)
 
 </details>
