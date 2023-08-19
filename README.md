@@ -24,8 +24,8 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 > [!NOTE]
 > Clicking on a file in the Files tab on CurseForge, and clicking a file on the Versions tab on Modrinth, will show you something similar to the images below respectively
 > 
-> ![alt text](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png?raw=true)
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/2a2b454c-9466-4422-abe3-86cd718c88bb)
+> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png?raw=true)
+> ![CurseForge File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-03-36%20CurseForge%20-%20the%20home%20for%20modding%20communities.png?raw=true)
 
 </details>
 
@@ -40,8 +40,9 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 > [!NOTE]
 > Mod Dependencies list on a CurseForge and Modrinth mod page respectively. **CurseForge's** dependencies page can be seen in the Relations Tab, and **Modrinth's** dependencies can be seen in a mods file page.
 > 
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/48100494-f874-4cf5-ac36-9d1058419ad4)
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/b3228188-bceb-40d6-aff8-bdeba7e3e3fc)
+> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-18-54%201.19.2-440-fabric%20-%20Botania.png?raw=true)
+> ![CurseForge Relations Tab](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-18-01%20Related%20Dependencies%20-%20Botania%20-%20Mods%20-%20Projects%20-%20CurseForge.png?raw=true)
+> Some mods may not have included their dependencies in the two locations shown above, but rather in the Mods Description
 
 </details>
 
