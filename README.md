@@ -77,19 +77,15 @@ Select the Client you are using.
  1. Go to the [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) Website
  2. Click on your preferred version and Download the Recommended INSTALLER (If you wish to, you can choose the Latest Installer). Upon completion open the downloaded file. 
     
-  ![image](https://github.com/Spookfu/moddedmc/assets/75686139/34322acb-3c17-41ef-b495-643728718a02)
-  ![image](https://github.com/Spookfu/moddedmc/assets/75686139/e3bfd223-a390-47d4-9173-18e2b13d3ee2)
+  ![Forge Download Page](https://github.com/Spookfu/moddedmc/assets/75686139/34322acb-3c17-41ef-b495-643728718a02)
   
  3. You should now see this! Click on `OK` and wait for it to install. (The Black mark is your profile name.) Wait for Forge to be installed.
     
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/d5f4db67-f617-4247-b547-4e8a4e1f627d)
+  ![Forge Download Prompt](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20194112.png?raw=true)
 
-    > [!NOTE]
-    > This is what you should see right now.
-    > 
-    > You should see this after the download has been completed.
-    >
-    > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/1062f50b-d06a-4a1e-ad55-935541690146)
+You should see this after the download has been completed.
+
+  ![Download Complete](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20194234.png?raw=true)
 
  5. Open the Minecraft Launcher and you should see a forge profile in your Installations List.
     
