@@ -87,7 +87,7 @@ You should see this after the download has been completed.
 
   ![Download Complete](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20194234.png?raw=true)
 
- 5. Open the Minecraft Launcher and you should see a forge profile in your Installations List.
+ 4. Open the Minecraft Launcher and you should see a forge profile in your Installations List.
     
     ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/fol-test.png?raw=true)
 
@@ -171,32 +171,51 @@ You're good to go! Now that you've set up a simple mod loader, it's time to add 
   
 **Vanilla**
 1. Go to the Minecraft Launcher, and launch your preferred version. After it has loaded into the Title Screen, exit out of the game.
-2. Go to the [Fabric](https://fabricmc.net/) Website
-3. Click on `download here`
-   
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/94fc2ba2-5390-4897-aeb8-f85478b18d7f?raw=true)
+2. Go to the [Fabric]([https://fabricmc.net/](https://fabricmc.net/use/installer/)) Website
+3. Click on `Download for Windows` (or `Download universal jar` if you're not using Windows), and open the downloaded file.
 
-4. Click on `Download for Windows` (or `Download universal jar` if you're not using Windows), and open the downloaded file.
 > [!NOTE]
 > Fabric has their own [Installation guide](https://fabricmc.net/wiki/install) that you can look through instead of here.
-
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/8fee7f0d-4ccc-4dea-9247-96cb2e8b2003?raw=true)
-
-5. You should see this now! Choose your preferred version (Check the Show Snapshots button for Snapshot versions), check `Create Profile`, if it isn't already, and press `Install`
-
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/85c9883e-5eec-4865-a95a-bb0b74705a05?raw=true)
-
-> [!NOTE]
-> This is what you should see right now.
-> 
-> You should see this after the download has been completed.
 >
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/e25d039f-365a-4c33-b0be-527345b67bfe?raw=true)
+> ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2021-32-24%20Installation%20for%20Minecraft%20Launcher.png?raw=true)
+> 
 
-6. Open the Minecraft Launcher, and you should see a fabric profile in your Installations List.
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/b97c938f-015a-4e05-a4b7-851dd876c8e4?raw=true)
+3. You should see this now! Choose your preferred version (Check the Show Snapshots button for Snapshot versions), check `Create Profile`, if it isn't already, and press `Install`
+
+   You have little to no need to switch loader versions. Ignore this option unless otherwise explicitly told. 
+
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20213714.png?raw=true)
+
+4.You should see this after the download has been completed.
+
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20213934.png?raw=true)
+
+5. Open the Minecraft Launcher, and you should see a fabric profile in your Installations List.
+
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/fl-test.png?raw=true)
 
 That's it! Now that you've set up a simple mod loader, it's time to add mods!
+
+  <details>
+  <summary>If not, click here! </summary>
+  <br>
+
+  1. Click on the Installations Tab
+
+  ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/istall-test.png?raw=true)
+    
+
+  2. Check the Box called `MODDED` and `SNAPSHOTs` on the top, then click `New Installation`.
+     
+  ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/faric-redo.png?raw=true)
+
+  3. Click on Versions, and scroll down until you see the desired Version, then click `Create`.
+
+  ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/faric-fial.png?raw=true)
+    
+  You're done! Now that you've set up a simple mod loader, it's time to add mods!
+
+</details>
 
 </details>
 
@@ -207,16 +226,16 @@ That's it! Now that you've set up a simple mod loader, it's time to add mods!
 **MultiMC / Prism Launcher**
 1. Open the Launcher and click `Add Instance`
 
-![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-1.png?raw=true)
-
+  ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-1.png?raw=true)
+  
 2. Choose your preferred version, click on `Fabric` then press `OK`
 
-![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-faric.png?raw=true)
+  ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-faric.png?raw=true)
 
 
 3. You should see this now!
-   
-> ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-3.png?raw=true)
+
+   ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-3.png?raw=true)
 
 You're done! Now that you've set up a simple mod loader, it's time to add mods!
 You can learn more on how to use Prism Launcher [HERE](https://prismlauncher.org/wiki/getting-started/)
