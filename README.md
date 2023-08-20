@@ -24,8 +24,8 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 > [!NOTE]
 > Clicking on a file in the Files tab on CurseForge, and clicking a file on the Versions tab on Modrinth, will show you something similar to the images below respectively
 > 
-> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png?raw=true)
-> ![CurseForge File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-03-36%20CurseForge%20-%20the%20home%20for%20modding%20communities.png?raw=true)
+> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2018-55-43%2023w33a%20Fabric%20API%200.87.1%201.20.2%20-%20Fabric%20API.png?raw=true)
+> ![CurseForge File Page](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2019-03-36%20CurseForge%20-%20the%20home%20for%20modding%20communities.png?raw=true)
 
 </details>
 
@@ -40,8 +40,8 @@ Updating and managing mods is quite a hassle. So to lessen the headaches, here a
 > [!NOTE]
 > Mod Dependencies list on a CurseForge and Modrinth mod page respectively. **CurseForge's** dependencies page can be seen in the Relations Tab, and **Modrinth's** dependencies can be seen in a mods file page.
 > 
-> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-18-54%201.19.2-440-fabric%20-%20Botania.png?raw=true)
-> ![CurseForge Relations Tab](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-18-01%20Related%20Dependencies%20-%20Botania%20-%20Mods%20-%20Projects%20-%20CurseForge.png?raw=true)
+> ![Modrinth File Page](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2019-18-54%201.19.2-440-fabric%20-%20Botania.png?raw=true)
+> ![CurseForge Relations Tab](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2019-18-01%20Related%20Dependencies%20-%20Botania%20-%20Mods%20-%20Projects%20-%20CurseForge.png?raw=true)
 > Some mods may not have included their dependencies in the two locations shown above, but rather in the Mods Description
 
 </details>
@@ -77,19 +77,19 @@ Select the Client you are using.
  1. Go to the [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) Website
  2. Click on your preferred version and Download the Recommended INSTALLER (If you wish to, you can choose the Latest Installer). Upon completion open the downloaded file. 
     
-  ![Forge Download Page](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20at%2019-32-45%20Minecraft%20Forge%20downloads.png?raw=true)
+  ![Forge Download Page](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20at%2019-32-45%20Minecraft%20Forge%20downloads.png?raw=true)
   
  3. You should now see this! Click on `OK` and wait for it to install. (The Black mark is your profile name.) Wait for Forge to be installed.
     
-  ![Forge Download Prompt](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20194112.png?raw=true)
+  ![Forge Download Prompt](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20194112.png?raw=true)
 
 You should see this after the download has been completed.
 
-  ![Download Complete](https://github.com/Spookfu/moddedmc/blob/main/Screenshot%202023-08-19%20194234.png?raw=true)
+  ![Download Complete](https://github.com/Spookfu/moddedmc/blob/main/IMGS/Screenshot%202023-08-19%20194234.png?raw=true)
 
  5. Open the Minecraft Launcher and you should see a forge profile in your Installations List.
     
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/3917a696-0635-4b07-9cab-eff39cfbc8cf)
+    ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/fol-test.png?raw=true)
 
     That's it! Now that you've set up a simple mod loader, it's time to add mods!
     
@@ -99,16 +99,16 @@ You should see this after the download has been completed.
 
     1. Click on the Installations Tab
 
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/2060fce6-c3ca-4ade-bb86-c49780e5fdb9)
+    ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/istall-test.png?raw=true)
     
 
     2. Check the Box called `MODDED` on the top, then click `New Installation`.
      
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/5c5f817c-6692-4c3f-8d56-05e9d1644ff5)
+    ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/ew-istall-test.png?raw=true)
 
     3. Click on Versions, and scroll down until you see the desired Version, then click `Create`.
 
-    ![image](https://github.com/Spookfu/moddedmc/assets/75686139/a8491cef-477f-4496-b657-7f7e66aab522)
+    ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/forge-fial.png?raw=true)
     
     You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
