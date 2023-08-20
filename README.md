@@ -133,9 +133,8 @@ You should see this after the download has been completed.
 
 ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-3.png?raw=true)
 
-You can learn more on how to use Prism Launcher [HERE](https://prismlauncher.org/wiki/getting-started/)
-
 You're done! Now that you've set up a simple mod loader, it's time to add mods!
+You can learn more on how to use Prism Launcher [HERE](https://prismlauncher.org/wiki/getting-started/)
 
 </details>
 
@@ -145,19 +144,14 @@ You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
 1. Open CurseForge, and click on `Create Custom Profile`
    
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/3b316a7f-75dd-4a0a-8b13-c6430fd01122)
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/curseforge-1.png)
 
 2. Enter a Name for your profile, choose your preferred version, and click on Forge. Once you're satisfied, click `Create`
 
-   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/3962e942-de17-4834-bd75-e0096f59a342)
+   ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/curseforge-forge.png)
 
-   > [!NOTE]
-   > This is what you should see right now.
-   > 
-   > You should see this when it finishes downloading.
-   >
-   > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/02a83e66-9686-40dc-a30e-db7966612374)
-
+3. You should see this now.
+   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/02a83e66-9686-40dc-a30e-db7966612374)
 
 You're good to go! Now that you've set up a simple mod loader, it's time to add mods!
 
@@ -217,18 +211,15 @@ That's it! Now that you've set up a simple mod loader, it's time to add mods!
 
 2. Choose your preferred version, click on `Fabric` then press `OK`
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/6196df41-c5a3-418f-890c-4a3a3bd8d20d)
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-faric.png)
 
 
-> [!NOTE]
-> This is what you should see right now.
-> 
-> You should see this now!
-> 
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/4ddeabb6-a739-4b31-aec5-71be6ee87ec6)
-
+3. You should see this now!
+   
+> ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-3.png)
 
 You're done! Now that you've set up a simple mod loader, it's time to add mods!
+You can learn more on how to use Prism Launcher [HERE](https://prismlauncher.org/wiki/getting-started/)
 
 </details>
 
@@ -238,18 +229,15 @@ You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
 1. Open CurseForge, and click on `Create Custom Profile`
    
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/3b316a7f-75dd-4a0a-8b13-c6430fd01122)
+   ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/curseforge-1.png)
 
 2. Enter a Name for your profile, choose your preferred version, and click on Fabric. Once you're satisfied, click `Create`
 
-   ![image](https://github.com/Spookfu/moddedmc/assets/75686139/73400613-a09a-4f9e-a8f7-592ade0feb57)
+   ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/curseforge-faric-start.png)
 
-   > [!NOTE]
-   > This is what you should see right now.
-   > 
-   > You should see this when it finishes downloading.
-   > 
-   > ![image](https://github.com/Spookfu/moddedmc/assets/75686139/ec721cfa-2f12-477d-851e-e3d658133f0d)
+3. You should see this now.
+  
+   ![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/curseforge-faric-fial.png)
 
 
 You're good to go! Now that you've set up a simple mod loader, it's time to add mods!
