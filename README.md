@@ -123,19 +123,17 @@ You should see this after the download has been completed.
 **MultiMC / Prism Launcher**
 1. Open the Launcher and click `Add Instance`
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/0c2afcc7-fee0-42db-b06c-d67c9c8ebf45)
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-1.png?raw=true)
 
 2. Choose your preferred version, click on `Forge` then press `OK`
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/e1c932b2-573c-4620-a709-cbda175aa1fc)
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-2.png?raw=true)
 
-> [!NOTE]
-> This is what you should see right now.
-> 
-> You should see this now!
->
-> ![image](https://github.com/Spookfu/moddedmc/assets/75686139/fa75ab44-7f1c-4119-9aeb-39195fa925bf)
+3. You should see this now!
 
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-3.png?raw=true)
+
+You can learn more on how to use Prism Launcher [HERE](https://prismlauncher.org/wiki/getting-started/)
 
 You're done! Now that you've set up a simple mod loader, it's time to add mods!
 
@@ -215,7 +213,7 @@ That's it! Now that you've set up a simple mod loader, it's time to add mods!
 **MultiMC / Prism Launcher**
 1. Open the Launcher and click `Add Instance`
 
-![image](https://github.com/Spookfu/moddedmc/assets/75686139/0c2afcc7-fee0-42db-b06c-d67c9c8ebf45)
+![image](https://github.com/Spookfu/moddedmc/blob/main/IMGS/prism-1.png)
 
 2. Choose your preferred version, click on `Fabric` then press `OK`
 
